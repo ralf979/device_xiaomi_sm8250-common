@@ -85,4 +85,7 @@
     <string name="dt2w_enable_title">Double-Tap to Wake </string>
     <string name="dt2w_enable_summary">Display boot in screen-off state by a double-tap</string>
 
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Raise to wake</string>
+    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
 </resources>
